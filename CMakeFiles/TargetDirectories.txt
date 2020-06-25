@@ -1,0 +1,4 @@
+/home/sharkigamers/delivery/GITHUB/indie_studio/CMakeFiles/rebuild_cache.dir
+/home/sharkigamers/delivery/GITHUB/indie_studio/CMakeFiles/edit_cache.dir
+/home/sharkigamers/delivery/GITHUB/indie_studio/CMakeFiles/distclean.dir
+/home/sharkigamers/delivery/GITHUB/indie_studio/CMakeFiles/bomberman.dir
